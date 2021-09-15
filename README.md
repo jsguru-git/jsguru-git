@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![jsguru-git's github stats](https://github-readme-stats.vercel.app/api/?username=jsguru-git&count_private=true&theme=tokyonight&show_icons=true&text_color=586069)  
-![jsguru-git's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=8&layout=compact&theme=tokyonight&show_icons=true&text_color=586069)
+![jsguru-git's github stats](https://github-readme-stats.vercel.app/api?username=jsguru-git&count_private=true&theme=tokyonight&show_icons=true&text_color=586069)  
+![jsguru-git's github langs](https://github-readme-stats.vercel.app/api/top-langs?username=jasongaylord&langs_count=8&layout=compact&theme=tokyonight&show_icons=true&text_color=586069)
